@@ -43,7 +43,7 @@ A comprehensive and interactive sales analytics dashboard designed for cafes, bu
 ### Prerequisites ✅
 - Power BI Desktop installed
 - Tableau Desktop installed
-- Access to the data source (if applicable)
+- Sample Data
 
 ### Usage Instructions 📝
 1. **Open** the Power BI file (`Cafe_Sales_Dashboard.pbix`) or Tableau workbook (`Cafe_Sales_Dashboard.twbx`).
